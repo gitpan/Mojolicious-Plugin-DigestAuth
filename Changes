@@ -1,0 +1,9 @@
+-------------------------
+2011-12-12	v0.03	
+-------------------------
+* Fixed URL comparison (Bug #1) 
+* Fixed various things broken by new releases of Mojolicious
+* Fixed uninitialized value warnings from checksum()
+* Changed how the current request's URL is determined
+* Added check for X-HTTP_AUTHORIZATION
+* Added option 'support_broken_browsers'
