@@ -18,7 +18,7 @@ no_index:
     - t
     - inc
 requires:
-  Mojolicious: 1.31
+  Mojolicious: 2.20
 resources:
   bugtracker: http://github.com/sshaw/Mojolicious-Plugin-DigestAuth/issues
-version: 0.03
+version: 0.04
