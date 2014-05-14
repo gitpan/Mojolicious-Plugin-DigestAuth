@@ -17,5 +17,4 @@ t/nonce.t
 t/route.t
 t/support_broken_browsers.t
 t/TestHelper.pm
-META.yml                                 Module YAML meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
+META.yml                                 Module meta-data (added by MakeMaker)
